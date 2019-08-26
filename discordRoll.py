@@ -13,4 +13,4 @@ async def roll(ctx, number):
   else:
     await ctx.send(str(arg))
     
-bot.run(TOKEN)
+bot.run('TOKEN')
